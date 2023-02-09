@@ -1,1 +1,1 @@
-su whoami
+su whoami group chown
