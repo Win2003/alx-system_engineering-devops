@@ -1,1 +1,1 @@
-chown
+chown whoami
